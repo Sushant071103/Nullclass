@@ -1,0 +1,59 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hello",
+          "How are you?"
+        ],
+        "responses": [
+          "Hello, how can I assist you?",
+          "Hi there! How can I help?"
+        ]
+      },
+      {
+        "tag": "exercise",
+        "patterns": [
+          "What are the best exercises for back pain?",
+          "Exercises to relieve back pain"
+        ],
+        "responses": [
+          "Stretching, yoga, and strengthening exercises can help alleviate back pain."
+        ]
+      },
+      {
+        "tag": "headache",
+        "patterns": [
+          "How can I relieve a headache?",
+          "What are the symptoms of a headache?"
+        ],
+        "responses": [
+          "You can relieve a headache by drinking water, resting, and using over-the-counter medication."
+        ]
+      },
+      {
+        "tag": "nutrition",
+        "patterns": [
+          "What should I eat for energy?",
+          "Best foods for stamina",
+          "What are good foods for recovery?"
+        ],
+        "responses": [
+          "To boost energy, try consuming complex carbs like whole grains, proteins like chicken or tofu, and hydrating fruits like oranges and berries."
+        ]
+      },
+      {
+        "tag": "fatigue",
+        "patterns": [
+          "Why do I feel tired all the time?",
+          "How can I fight fatigue?",
+          "What can I do for constant tiredness?"
+        ],
+        "responses": [
+          "Fatigue can be caused by lack of sleep, poor nutrition, or stress. Make sure you are getting adequate rest and maintaining a balanced diet."
+        ]
+      }
+    ]
+  }
+  
